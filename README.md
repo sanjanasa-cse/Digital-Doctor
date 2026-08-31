@@ -113,12 +113,7 @@ Motivational Support
 - Error Handling
 - API Retry Handling
 
-## 🚀 Run Locally
 
-### Prerequisites
-
-- Node.js
-- Gemini API Key
 
 ### Installation
 
