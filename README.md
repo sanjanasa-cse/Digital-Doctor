@@ -1,21 +1,33 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Digital Doctor
 
-# Run and deploy your AI Studio app
+Digital Doctor is an AI-powered healthcare assistance web application designed to provide users with basic health guidance, symptom analysis, and medical assistance.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/drive/14ZRoW5Ps3z6nrtVBuEreaeuLEfaj4JOa
+- AI-powered health assistance
+- Symptom analysis
+- Medical chat
+- Patient history management
+- User authentication
+- Health information support
+
+## Technologies Used
+
+- React
+- TypeScript
+- Vite
+- Google Gemini API
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
+### Prerequisites
 
+- Node.js
+- Gemini API Key
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Installation
 
+1. Clone the repository:
+
+```bash
+git clone https://github.com/sanjanasa-cse/Digital-Doctor.git
