@@ -1,0 +1,9 @@
+{
+  "name": "Digital Doctor",
+  "description": "An AI-powered medical assistant that analyzes tablets and medical reports, provides risk assessments with voice support, and answers health queries.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
